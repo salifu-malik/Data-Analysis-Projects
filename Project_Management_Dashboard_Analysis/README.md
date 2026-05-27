@@ -43,6 +43,19 @@ The dashboard integrates data from multiple projects including:
 
 ---
 
+## Screenshots & Visualizations
+
+The project now includes dashboard screenshots and visual assets showcasing:
+
+Project progress tracking dashboards
+KPI summary reports
+Timeline and milestone visualizations
+Multi-project performance comparisons
+Interactive Power BI dashboard views
+
+All screenshots are stored in the Screenshots folder for easy preview on GitHub.
+---
+
 ## Project Structure
 
 ```text
@@ -63,8 +76,15 @@ Project_Files/
    ERP_System.mpp
    Fintech_App_Development.mpp
    Network_Infrastructure_Project.mpp
-```
 
+Screenshots/
+  Average_Progress_&_Total_Cost_By_Project_Name.jpeg
+  Count_of_Task_Name_By_Resources.jpeg
+  Project_Name_Against_Delay_Status.jpeg
+  Project_Name_Against_Project_Health.jpeg
+  Project_Performance_Portfolio_Dashboard.jpe
+  Total_Cost_By_Project_Name.jpeg  
+```
 ---
 
 ## Dashboard Features
