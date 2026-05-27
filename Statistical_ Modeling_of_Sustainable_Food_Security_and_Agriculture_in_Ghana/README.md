@@ -111,17 +111,11 @@ This project contributes to:
 ## Project Structure
 
 ```text
-Mungo Park Project/
-│
-├── Statistical_model_for_sustainable_food_security_and_agriculture_in_Ghanaian_Economy.pdf
-├── Screenshots/
-│   ├── charts/
-│   ├── tables/
-│   ├── forecasting-models/
-│   └── visualizations/
-├── datasets/
-├── analysis/
-└── README.md
+Statistical_ Modeling_of_Sustainable_Food_Security_and_Agriculture_in_Ghana/
+
+   Statistical_model_for_sustainable_food_security_and_agriculture_in_Ghanaian_Economy.pdf
+   Screenshots/
+   README.md
 ```
 
 ---
